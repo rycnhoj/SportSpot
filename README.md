@@ -6,3 +6,4 @@ scraping code that was periodically executed on FSU's CS server during the
 semester. The application no longer works correctly since the script that 
 was executing the scraper was removed. 
 
+My first project working with github
